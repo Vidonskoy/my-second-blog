@@ -25,7 +25,7 @@ SECRET_KEY = 'y+-p=8$qjdz9^fwkwta49p7@y$_94x4--%+cddax5xp(zcj($+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["vidonskoy.pythonanywhere.com"]
 
 
 # Application definition
